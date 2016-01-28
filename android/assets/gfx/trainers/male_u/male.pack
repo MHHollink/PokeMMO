@@ -1,0 +1,33 @@
+
+male.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walking_down
+  rotate: false
+  xy: 1, 1
+  size: 100, 25
+  orig: 100, 25
+  offset: 0, 0
+  index: -1
+walking_left
+  rotate: false
+  xy: 103, 1
+  size: 100, 25
+  orig: 100, 25
+  offset: 0, 0
+  index: -1
+walking_right
+  rotate: false
+  xy: 205, 1
+  size: 100, 25
+  orig: 100, 25
+  offset: 0, 0
+  index: -1
+walking_up
+  rotate: false
+  xy: 307, 1
+  size: 100, 25
+  orig: 100, 25
+  offset: 0, 0
+  index: -1

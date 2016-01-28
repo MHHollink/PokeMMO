@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="52" height="52" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="poketile" tilewidth="16" tileheight="16" spacing="1" tilecount="1708" columns="61">
+  <image source="../gfx/tilemap/poketile.png" width="1036" height="475"/>
+ </tileset>
+ <layer name="Water" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt10EKgzAURdFksbbiWrqKYlbVgcaVNKJCJ8XJh1web3DJJMj/nImpKaWtVW/OofX4OT+tJac0/WnNx53r/t33o8659RKpnHv1niOq0T7o7MPOPuzsw84+7OzDzj7s7MNuFfO53vW954iqiPmM9kGn6PMGzBHpswDmiPSpuf8ckT6T0D5FbB/7sLMPu91nE9pn9xkAc0T6KP2Pqr237cPOPuzsw84+7OzDzj7sFH2e514q5xfz9dL9
+  </data>
+ </layer>
+ <layer name="Forrest" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt2mEKgkAQhuE5T52r7Fxl51I7iSvtwDIkLpr6fcO8sCz90cVHxcRGRB7ipzaN94q5tmcarwPmNu+vka+Pzl0afcVcW+321s5DXveQ97f2uKNUrn/K+rAVPtiFD3bhg134YBc+2IUPduGDnfp0+bcXn1sad/Hjo+ebFx+9H9j3BmyVPlve26BU+nzErw9r1meqP20127M+7P3yYU6vey8++lzgxcfLfU1Tl/DBzPpc0rieuqJtWR+9P7BmfdjPO+ujz6OsTnM+rE5zPsz/t8MHt/DBLnywCx/san32eP7ZY5tLPrpPlnnJ56jv7/75HR/z9W+zPiNhKj2X
+  </data>
+ </layer>
+ <layer name="Grass" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztmltOxDAMRatZAY8NzQZ4rIA/HmsZYBMDrKofsBSC4ErWVew4iZt2JCJZpUyb+uQmqeN0mtrLnOxsN013ZOe739+WKI/Jnhaod57KPJFMx2Rvyd6TfYjzqLIUD9rfe/T66bUST62h/b3HrfN8JvvKHKEHn2+dp6Qbn58qD3Th81Pl0eyfZwzPTbrnguzWqOc+2cPGeCTDa2U93vdpBM+L0bYlhhIPdBk5X0tfuB+VGDQecECXkfpAo1r/LR74v0a8E2WSB/6vEe+02iHZpbBrwQP/T0GfQ8Z/NsQDW9TH0qFkHKeO4mGfW/zHnIZj7ppRPBExD+Y0HCXXyPigl4ffmTiCS7KO4DlUjgnmgK889uWaYcvrOebQ1qjyntL8VsuBOKY2jpT+MwfaXF7D9+C8NL9FjRvEOlasz+Oc3/3yGmZmrl4eSxcvE/ej3PjA39wHmauVx8vRMo5y40P7jblGcHj7XY9p44fXuGw98X7Ue9UyLlGx8RoarcEDplJ+Yws8MuZ8XkmrCJ7ceuWqgsmbk5LzkXYPFy2mt0yLzVrWQsznmY+s/ZhI7b0a9ZpnfymSyTueToFnhFY1+3/RTHLcRfGtxRPFZ+VP1uQp8bXkT7bEE2FeHitH1GuRdXt5jlN+PRjhf2TdpcK5Ijy7h4P91+qu4fPm3/AMzn9rucqcD1qeo1R3jW64tlQ4h6d9l4FnyhyGxqHtDfC3ODndtPbz5t/Yb+27Gf597+Ao1c3/lzqwLt79Ba8+/PsPD+drvPpYdXKfrN3/adVn/nv+bFzj1UfmdLhP1u7/tOqDsjeu8eqDttkb7bm0PpKnVx857nu/F0PR9ve4T9Tow996aXw/daB/effhUL4Bq1p0YQ==
+  </data>
+ </layer>
+ <layer name="Edge" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAADwZCpAAAE=
+  </data>
+ </layer>
+ <layer name="Roads" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAADwZCpAAAE=
+  </data>
+ </layer>
+ <layer name="Bridges_and_Signs" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzjERACAMBLBqqTGMIL5IYODuBxIFqQIAALi30wEAAOA7nQ48ttIBAAAAgGMAL+0A/g==
+  </data>
+ </layer>
+ <layer name="Buildings" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt2DlTFEEYxvEZdClBERIFPBI+gFogFJllgBxqKkfAigophzEEnEIAikcCnqQoBIIfQrkTTyAFJQDxIOPfgcU41VszO7vLzC7vU/ULtnZ69317eqa62jAkEokkctJwyMFh36qLPpdcXHPZw+/mm/9/HgwZxhDu4wGG8RCP8BhPQh7+RBPVz1tMYVrz/WjIWz/2vOd3PmAGs5jDPBawiKU49rOJLZQa+r4i9dNv+1zPwgzjJhpsi/RIumFkIBNHcQxZOI5s5KTH3ouKtZ9/ftqucXt/RuhhFE/xzNJPAcqo9wrKUYFKVOEqruG6pR/7WvWrn4/08Amf8cXSTxid1NuFbvSgF324h34MxPH+nGM+zltcsM2P235O8AycRC7y4vQ8RBvVzy3m8jbuoBFNtrXvpp93iSjOQ1Q/z6n/BV7iFcY89BOUqH6+Uv83LGMFq0ncj3r35LPWT+E0zuAs2i3XdPhVnIeod88N6q9GDWpR59OzLEnebPtdQMCSqPnYj3nW7Zfk/sY/fs9pLPviRMTv+ZBIJHvRnemo/MJv/MFf7LgYE4ToznRUCnkPFuEiilFiOo8JQnRnOirN1N+CVrThruk8JgjRnemojFP/a7zBBCZN5zFBiO5MR2WN+tfxHT+wYTqPkaRGgrbnkugTaS+a6vcvmffgyVx7rEn1dSlJ7RzkZ1cikUgkwc4uR85zFQ==
+  </data>
+ </layer>
+ <objectgroup name="Bounds"/>
+ <objectgroup name="Grass"/>
+ <objectgroup name="Crossables"/>
+</map>
